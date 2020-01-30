@@ -1,0 +1,5 @@
+Background,color,204,204,204
+line,color,250,0,0
+graph,color,0,220,0
+numbers,Calibri,24
+numbers_font,color,0,250,250
